@@ -1,0 +1,17 @@
+body{
+    background-color: #161a1d;
+    color: white;
+}
+
+h1{
+    font-size: 4rem;
+}
+
+.container{
+    width: 400px;
+}
+
+#heading{
+    padding: 3rem 3rem;
+    font-size: 3rem;
+}
